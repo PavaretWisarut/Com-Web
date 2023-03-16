@@ -1,0 +1,59 @@
+#main{
+    max-width: 1500px;
+}
+
+#navbar{
+    margin-top: 10px;
+}
+
+#navbarDropdown, #article , #game{
+    color: black;
+}
+
+.carousel-item{
+    margin-top: 10px;
+
+}
+
+#border{
+    margin-top: 12px;
+    height: 480px;
+}
+
+h3{
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+#username{
+    margin-top: 10px;
+}
+
+#login{
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+#forget{
+    text-decoration: none;
+    width: 50px;
+}
+
+#regis{
+    width: 100%;
+}
+
+#welcome{
+    width: 45%;
+}
+
+.picture{
+    margin-bottom: 20px;
+    margin-left: 6%;
+}
+
+
+.card-title {
+    font-size: 18px;
+}
+
